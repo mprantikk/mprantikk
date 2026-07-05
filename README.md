@@ -14,7 +14,13 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently **Lead, Growth Operations** at **Commure** — bridging business, data, and technology
+- 🔭 Currently **Lead, Growth Operations** at **[Commure](https://www.commure.com/)**, a health-tech company —
+  bridging business, data, and technology to drive growth decisions
+  - Own revenue benchmarking, QA, and insight generation across the growth org
+  - Build and automate scalable benchmarking and reporting systems
+  - Partner closely with Engineering to debug EHR/operational data and resolve inconsistencies
+  - Previously **Data Operations Manager** at Commure, leading a team across Revenue Cycle Management (RCM)
+    and Financial Data Analytics, building dashboards on PostgreSQL, Snowflake, and Power BI
 - 📊 6+ years turning messy data into clean decisions across **health tech, logistics, e-commerce, and FMCG**
 - 🛠️ I build **scalable dashboards, automated reporting pipelines, and data governance frameworks**
 - 🎓 Pursuing an **M.Sc. in Data Science & Analytics** at East West University
@@ -36,6 +42,15 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Retool-3D3D3D?style=flat-square&logo=retool&logoColor=white" />
 </p>
+
+---
+
+### 📌 Featured Projects
+
+**[SQL Revenue & Customer Analytics](https://github.com/mprantikk/sql-revenue-analytics)**
+A PostgreSQL portfolio project analyzing e-commerce revenue, RFM customer segmentation, cohort
+retention, and product performance — using CTEs, window functions, and cohort analysis.
+`PostgreSQL` `SQL` `Data Analysis`
 
 ---
 
