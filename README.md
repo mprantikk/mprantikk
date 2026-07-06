@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mprantikk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mprantikk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/mprantikk/mprantikk/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 </p>
 
 ---
