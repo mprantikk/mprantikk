@@ -52,6 +52,12 @@ A PostgreSQL portfolio project analyzing e-commerce revenue, RFM customer segmen
 retention, and product performance — using CTEs, window functions, and cohort analysis.
 `PostgreSQL` `SQL` `Data Analysis`
 
+**[RCM Revenue Benchmarking](https://github.com/mprantikk/rcm-revenue-benchmarking)**
+A Python + MySQL project modeling Revenue Cycle Management benchmarking — computing Days in AR,
+denial rate, clean claim rate, and net collection rate against industry targets, with
+payer-level and provider-level breakdowns.
+`Python` `MySQL` `Healthcare Analytics`
+
 ---
 
 ### 📈 GitHub Stats
