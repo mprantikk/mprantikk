@@ -82,5 +82,5 @@ payer-level and provider-level breakdowns.
 <p align="left">
   <a href="https://www.linkedin.com/in/mprantikk">LinkedIn</a> ·
   <a href="mailto:mprantikk@gmail.com">Email</a> ·
-  Rampura, Dhaka, Bangladesh
+  Dhaka, Bangladesh
 </p>
