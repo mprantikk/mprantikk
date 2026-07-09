@@ -43,6 +43,13 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Retool-3D3D3D?style=flat-square&logo=retool&logoColor=white" />
 </p>
+---
+
+### 📚 Research & Working Papers
+
+**[Beyond the Dashboard: Insight Quality Evaluation (IQE) Framework](https://github.com/mprantikk/ai-insight-quality-evaluation)**
+A conceptual framework and mixed-methods research design bridging data mining interestingness metrics with Information Systems success theory. It introduces a systematic methodology to evaluate whether algorithmically generated dashboard narratives (anomalies, forecasts, correlations) are statistically valid, contextually relevant, novel, and actionable—rather than spurious or redundant noise.
+`Augmented Analytics` `Data Governance` `AI in BI` `Decision Support Systems`
 
 ---
 
