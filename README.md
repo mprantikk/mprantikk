@@ -81,13 +81,7 @@ payer-level and provider-level breakdowns.
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mprantikk" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mprantikk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-<p align="left">
-  📍 Dhaka, Bangladesh
+  <a href="https://www.linkedin.com/in/mprantikk">LinkedIn</a> ·
+  <a href="mailto:mprantikk@gmail.com">Email</a> ·
+  Dhaka, Bangladesh
 </p>
