@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Retool-3D3D3D?style=flat-square&logo=retool&logoColor=white" />
 </p>
-
 ---
 
 ### 📚 Research & Working Papers
