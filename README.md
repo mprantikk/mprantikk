@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Retool-3D3D3D?style=flat-square&logo=retool&logoColor=white" />
 </p>
+
 ---
 
 ### 📚 Research & Working Papers
@@ -80,7 +81,13 @@ payer-level and provider-level breakdowns.
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mprantikk">LinkedIn</a> ·
-  <a href="mailto:mprantikk@gmail.com">Email</a> ·
-  Dhaka, Bangladesh
+  <a href="https://www.linkedin.com/in/mprantikk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Md%20Masud%20Parvej-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:mprantikk@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-mprantikk@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
+<p align="left">
+  📍 Dhaka, Bangladesh
 </p>
