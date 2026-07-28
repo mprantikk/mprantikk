@@ -1,86 +1,156 @@
-<h1 align="center">Hi, I'm Masud Parvej 👋</h1>
-<h3 align="center">Data Analytics & Growth Operations Professional</h3>
+<div align="center">
 
-<p align="center">
-  Turning complex, cross-functional data into decisions that move the business.
-</p>
+  <!-- Crisp Blue, Black & White Animated Header Wave -->
+  <a href="https://mprantikk.github.io/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,1,12,20,30&height=220&section=header&text=MD%20MASUD%20PARVEJ&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead,%20Growth%20Operations%20@%20Commure&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
+  </a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mprantikk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mprantikk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/mprantikk/mprantikk/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
-</p>
+  <p align="center">
+    <strong>Architecting Business Growth Through Data Engineering, Analytics & Operational Technology</strong>
+  </p>
 
----
+  <br>
 
-### 🚀 About Me
+  <!-- Live Portfolio & Contact Badges -->
+  <p align="center">
+    <a href="https://mprantikk.github.io/">
+      <img src="https://img.shields.io/badge/⚡_Live_Portfolio-mprantikk.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/mprantikk">
+      <img src="https://img.shields.io/badge/LinkedIn-Md_Masud_Parvej-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:mprantikk@gmail.com">
+      <img src="https://img.shields.io/badge/Email-mprantikk%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 
-- 🔭 Currently **Lead, Growth Operations** at **[Commure](https://www.commure.com/)**, a health-tech company —
-  bridging business, data, and technology to drive growth decisions
-  - Own revenue benchmarking, QA, and insight generation across the growth org
-  - Build and automate scalable benchmarking and reporting systems
-  - Partner closely with Engineering to debug EHR/operational data and resolve inconsistencies
-  - Previously **Data Operations Manager** at Commure, leading a team across Revenue Cycle Management (RCM)
-    and Financial Data Analytics, building dashboards on PostgreSQL, Snowflake, and Power BI
-- 📊 6+ years turning messy data into clean decisions across **health tech, logistics, e-commerce, and FMCG**
-- 🛠️ I build **scalable dashboards, automated reporting pipelines, and data governance frameworks**
-- 🎓 Pursuing an **M.Sc. in Data Science & Analytics** at East West University
-- 🏆 Microsoft Certified Power BI Data Analyst (PL-300) · Google Data Analytics · IBM Data Analyst
-- 💡 Interested in automation, financial data analytics, and applied ML for business operations
+  <!-- Metric Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Experience-5%2B_Years-2563EB?style=flat-square&logo=chartdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/HRIS_Accuracy-15%25%2B_Boost-1D4ED8?style=flat-square&logo=actigraph&logoColor=white" />
+    <img src="https://img.shields.io/badge/Awards-Star_Achiever_%26_Commando-1E3A8A?style=flat-square&logo=trophy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Certifications-PL--300_%7C_GCP_%7C_ICP--A-60A5FA?style=flat-square&logo=microsoft&logoColor=white" />
+  </p>
 
----
-
-### 🧰 Tools & Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retool-3D3D3D?style=flat-square&logo=retool&logoColor=white" />
-</p>
----
-
-### 📚 Research & Working Papers
-
-**[Beyond the Dashboard: Insight Quality Evaluation (IQE) Framework](https://github.com/mprantikk/ai-insight-quality-evaluation)**
-A conceptual framework and mixed-methods research design bridging data mining interestingness metrics with Information Systems success theory. It introduces a systematic methodology to evaluate whether algorithmically generated dashboard narratives (anomalies, forecasts, correlations) are statistically valid, contextually relevant, novel, and actionable—rather than spurious or redundant noise.
-`Augmented Analytics` `Data Governance` `AI in BI` `Decision Support Systems`
+</div>
 
 ---
 
-### 📌 Featured Projects
+### 🚀 About Me & Executive Focus
 
-**[SQL Revenue & Customer Analytics](https://github.com/mprantikk/sql-revenue-analytics)**
-A PostgreSQL portfolio project analyzing e-commerce revenue, RFM customer segmentation, cohort
-retention, and product performance — using CTEs, window functions, and cohort analysis.
-`PostgreSQL` `SQL` `Data Analysis`
-
-**[RCM Revenue Benchmarking](https://github.com/mprantikk/rcm-revenue-benchmarking)**
-A Python + MySQL project modeling Revenue Cycle Management benchmarking — computing Days in AR,
-denial rate, clean claim rate, and net collection rate against industry targets, with
-payer-level and provider-level breakdowns.
-`Python` `MySQL` `Healthcare Analytics`
+- 🔭 **Lead, Growth Operations** at **[Commure](https://www.commure.com/)** — bridging business strategy, data analytics, and operational technology execution.
+  - Own revenue benchmarking, quality assurance, and automated insights across the growth organization.
+  - Build and automate scalable benchmarking and reporting infrastructure across operational pipelines.
+  - Partner closely with Engineering to debug EHR and operational datasets, resolving cross-system inconsistencies.
+  - *Previously:* **Data Operations Manager** at Commure, leading cross-functional teams in Revenue Cycle Management (RCM) & Financial Data Analytics.
+- 📊 **5+ Years Experience** driving analytics scale across **health tech, logistics, e-commerce, and FMCG**.
+- 🛠️ Specialist in **scalable SQL pipelines, Power BI reporting suites, and data governance frameworks**.
+- 🎓 Pursuing an **M.Sc. in Data Science & Analytics** at East West University.
 
 ---
 
-### 📈 GitHub Stats
+### 🧰 Tech Ecosystem
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mprantikk&show_icons=true&theme=default&hide_title=false" alt="mprantikk's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mprantikk" alt="mprantikk's streak" height="165"/>
-</p>
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="25%"><strong>Data Engineering</strong></td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/PostgreSQL-1E40AF?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Snowflake-2563EB?style=for-the-badge&logo=snowflake&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL_Server-1D4ED8?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/GCP-1E3A8A?style=for-the-badge&logo=googlecloud&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><strong>BI & Analytics</strong></td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/Power_BI_(PL--300)-2563EB?style=for-the-badge&logo=powerbi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tableau-1E40AF?style=for-the-badge&logo=tableau&logoColor=white" />
+        <img src="https://img.shields.io/badge/Metabase-3B82F6?style=for-the-badge&logo=metabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/DAX-1D4ED8?style=for-the-badge&logo=microsoft&logoColor=white" />
+        <img src="https://img.shields.io/badge/Excel_(VBA)-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><strong>Ops & Workflows</strong></td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/Retool-000000?style=for-the-badge&logo=retool&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linear-1E40AF?style=for-the-badge&logo=linear&logoColor=white" />
+        <img src="https://img.shields.io/badge/Notion-0F172A?style=for-the-badge&logo=notion&logoColor=white" />
+        <img src="https://img.shields.io/badge/Agile_Analytics_(ICP--A)-2563EB?style=for-the-badge&logo=agile&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
-### 📫 Let's Connect
+### 🔬 Research & Working Papers
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mprantikk">LinkedIn</a> ·
-  <a href="mailto:mprantikk@gmail.com">Email</a> ·
-  Dhaka, Bangladesh
-</p>
+> ### 📄 [Paper] Beyond the Dashboard: Insight Quality Evaluation (IQE) Framework
+> **Author:** Md Masud Parvej (Independent Researcher)
+> 
+> Proposes a conceptual framework and evaluation methodology synthesizing data mining metrics with Information Systems success research. Evaluates whether automated AI and LLM dashboard narratives are:
+> 
+> - 🎯 **Statistical Validity:** Ensures discovered patterns are genuine and non-spurious.
+> - 🎯 **Contextual Relevance:** Bears directly on active managerial decision scenarios.
+> - 🎯 **Novelty:** Measures added informational value beyond baseline organizational knowledge.
+> - 🎯 **Actionability:** Implies clear, feasible, and high-impact business interventions.
+>
+> `Augmented Analytics` `AI Evaluation` `Decision Support Systems` `Data Governance`
+
+---
+
+### 📌 Featured Repositories
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📊 SQL Revenue Analytics</h3>
+        <p align="center">PostgreSQL schema and querying suite for business intelligence, customer RFM segmentation, and automated data integrity protocols.</p>
+        <p align="center">
+          <a href="https://github.com/mprantikk/sql-revenue-analytics">
+            <img src="https://img.shields.io/badge/View_Repo-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🏥 RCM Revenue Benchmarking</h3>
+        <p align="center">Python and PostgreSQL benchmarking pipeline for healthcare Revenue Cycle Management (RCM) KPIs and denial rate tracking.</p>
+        <p align="center">
+          <a href="https://github.com/mprantikk/rcm-revenue-benchmarking">
+            <img src="https://img.shields.io/badge/View_Repo-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mprantikk&show_icons=true&theme=cobalt&hide_border=true&title_color=60a5fa&icon_color=3b82f6&text_color=94a3b8" height="160"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mprantikk&theme=cobalt&hide_border=true&stroke=2563eb&ring=3b82f6&fire=2563eb&currStreakLabel=60a5fa" height="160"/>
+  </p>
+</div>
+
+---
+
+<!-- Blue & Black Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,1,12,20,30&height=100&section=footer" width="100%" />
+
+<div align="center">
+  <p><strong>Dhaka, Bangladesh</strong> · <a href="mailto:mprantikk@gmail.com">mprantikk@gmail.com</a> · <a href="https://mprantikk.github.io/">Website Portfolio</a></p>
+</div>
