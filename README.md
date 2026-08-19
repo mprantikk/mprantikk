@@ -26,7 +26,7 @@
 
   <!-- Metric Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Experience-5%2B_Years-2563EB?style=flat-square&logo=chartdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Experience-7_Years-2563EB?style=flat-square&logo=chartdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/HRIS_Accuracy-15%25%2B_Boost-1D4ED8?style=flat-square&logo=actigraph&logoColor=white" />
     <img src="https://img.shields.io/badge/Awards-Star_Achiever_%26_Commando-1E3A8A?style=flat-square&logo=trophy&logoColor=white" />
     <img src="https://img.shields.io/badge/Certifications-PL--300_%7C_GCP_%7C_ICP--A-60A5FA?style=flat-square&logo=microsoft&logoColor=white" />
