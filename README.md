@@ -43,7 +43,7 @@
   - Build and automate scalable benchmarking and reporting infrastructure across operational pipelines.
   - Partner closely with Engineering to debug EHR and operational datasets, resolving cross-system inconsistencies.
   - *Previously:* **Data Operations Manager** at Commure, leading cross-functional teams in Revenue Cycle Management (RCM) & Financial Data Analytics.
-- 📊 **5+ Years Experience** driving analytics scale across **health tech, logistics, e-commerce, and FMCG**.
+- 📊 **7 Years Experience** driving analytics scale across **health tech, logistics, e-commerce, and FMCG**.
 - 🛠️ Specialist in **scalable SQL pipelines, Power BI reporting suites, and data governance frameworks**.
 - 🎓 Pursuing an **M.Sc. in Data Science & Analytics** at East West University.
 
