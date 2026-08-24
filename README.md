@@ -32,49 +32,49 @@ alt="Typing animation"
 
 </div>
 
----
+────────
 
-## `01` â WHO I AM
+01 — WHO I AM
 
 <div align="center">
 
-### **Data Ã Automation Ã Growth**
+Data × Automation × Growth
 
 </div>
 
-I work at the intersection of **business operations, analytics, automation, and technology** â turning complex operational data into systems that help teams make faster and better decisions.
+I work at the intersection of business operations, analytics, automation, and technology — turning complex operational data into systems that help teams make faster and better decisions.
 
 ```text
-âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
-â                                                             â
-â   DATA                    AUTOMATION             GROWTH     â
-â   ââââ                    ââââââââââ             ââââââ     â
-â   Analytics               Workflow Design        Strategy   â
-â   SQL                     QA Automation          Revenue    â
-â   BI                      API Integration        Operations â
-â   Data Modeling           Process Optimization   Insights   â
-â                                                             â
-âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   DATA                    AUTOMATION             GROWTH     │
+│   ────                    ──────────             ──────     │
+│   Analytics               Workflow Design        Strategy   │
+│   SQL                     QA Automation          Revenue    │
+│   BI                      API Integration        Operations │
+│   Data Modeling           Process Optimization   Insights   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-### Currently
+Currently
 
 > **Lead, Growth Operations @ Commure**
 
 Driving revenue benchmarking, automated QA, operational analytics, and scalable workflow infrastructure across the growth organization.
 
-### What I Build
+What I Build
 
-- ð Revenue benchmarking & operational intelligence
-- ð¤ AI-assisted and API-driven workflows
-- âï¸ Automated QA & data validation systems
-- ð§  Decision-support analytics
-- ðï¸ SQL / PostgreSQL data pipelines
-- ð Executive reporting & BI infrastructure
+• 📊 Revenue benchmarking & operational intelligence
+• 🤖 AI-assisted and API-driven workflows
+• ⚙️ Automated QA & data validation systems
+• 🧠 Decision-support analytics
+• 🗄️ SQL / PostgreSQL data pipelines
+• 📈 Executive reporting & BI infrastructure
 
----
+────────
 
-## `02` â IMPACT SNAPSHOT
+02 — IMPACT SNAPSHOT
 
 <div align="center">
 
@@ -91,59 +91,59 @@ Driving revenue benchmarking, automated QA, operational analytics, and scalable 
 
 </div>
 
----
+────────
 
-## `03` â CAREER TIMELINE
+03 — CAREER TIMELINE
 
 ```text
-2026 âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââº
+2026 ──────────────────────────────────────────────────────────►
 
         LEAD, GROWTH OPERATIONS
         COMMURE
-        Revenue Operations â¢ Benchmarking â¢ Automation
-                           â
-                           â¼
-2025 ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+        Revenue Operations • Benchmarking • Automation
+                           │
+                           ▼
+2025 ──────────────────────────────────────────────────────────
 
         DATA OPERATIONS MANAGER
         COMMURE
-        RCM â¢ Analytics â¢ Data Governance
-                           â
-                           â¼
-2024 ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+        RCM • Analytics • Data Governance
+                           │
+                           ▼
+2024 ──────────────────────────────────────────────────────────
 
         SENIOR DATA ANALYST
         PORTER
-        BI â¢ Reporting â¢ Predictive Analytics
-                           â
-                           â¼
-2022 ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+        BI • Reporting • Predictive Analytics
+                           │
+                           ▼
+2022 ──────────────────────────────────────────────────────────
 
         AUTOMATION & ANALYTICS EXPERT
         SHOPUP
-        HRIS â¢ Automation â¢ Data Governance
-                           â
-                           â¼
-2020 ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+        HRIS • Automation • Data Governance
+                           │
+                           ▼
+2020 ──────────────────────────────────────────────────────────
 
         BUSINESS INTELLIGENCE EXECUTIVE
         GRAMEEN DANONE FOODS
-        BI â¢ Sales Analytics â¢ Power BI
-                           â
-                           â¼
-2019 ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+        BI • Sales Analytics • Power BI
+                           │
+                           ▼
+2019 ──────────────────────────────────────────────────────────
 
         BUSINESS DEVELOPMENT SPECIALIST
         MIND MAPPER BANGLADESH
 ```
 
----
+────────
 
-## `04` â TECH ECOSYSTEM
+04 — TECH ECOSYSTEM
 
 <div align="center">
 
-### Data Engineering
+Data Engineering
 
 <img src="https://skillicons.dev/icons?i=postgres,python,docker,gcp&theme=dark" />
 
@@ -155,7 +155,7 @@ Driving revenue benchmarking, automated QA, operational analytics, and scalable 
 
 <br><br>
 
-### Business Intelligence
+Business Intelligence
 
 <img src="https://img.shields.io/badge/POWER%20BI-020617?style=for-the-badge&logo=powerbi&logoColor=60A5FA" />
 <img src="https://img.shields.io/badge/TABLEAU-020617?style=for-the-badge&logo=tableau&logoColor=60A5FA" />
@@ -164,7 +164,7 @@ Driving revenue benchmarking, automated QA, operational analytics, and scalable 
 
 <br><br>
 
-### Automation & Operations
+Automation & Operations
 
 <img src="https://img.shields.io/badge/RETOOL-020617?style=for-the-badge&logo=retool&logoColor=60A5FA" />
 <img src="https://img.shields.io/badge/NOTION-020617?style=for-the-badge&logo=notion&logoColor=60A5FA" />
@@ -173,9 +173,9 @@ Driving revenue benchmarking, automated QA, operational analytics, and scalable 
 
 </div>
 
----
+────────
 
-## `05` â FEATURED SYSTEMS
+05 — FEATURED SYSTEMS
 
 <div align="center">
 
@@ -184,13 +184,13 @@ Driving revenue benchmarking, automated QA, operational analytics, and scalable 
 
 <td width="50%" valign="top">
 
-### ð¥ RCM Revenue Benchmarking
+🏥 RCM Revenue Benchmarking
 
-**Healthcare Revenue Intelligence**
+Healthcare Revenue Intelligence
 
 Python + PostgreSQL pipeline for analyzing:
 
-`Revenue` `Collections` `Denials` `Claims` `Benchmarks`
+Revenue Collections Denials Claims Benchmarks
 
 <a href="https://github.com/mprantikk/rcm-revenue-benchmarking">
 <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" />
@@ -200,13 +200,13 @@ Python + PostgreSQL pipeline for analyzing:
 
 <td width="50%" valign="top">
 
-### ð¤ AI Insight Quality Evaluation
+🤖 AI Insight Quality Evaluation
 
-**Evaluating AI-generated business insights**
+Evaluating AI-generated business insights
 
 A conceptual framework measuring:
 
-`Validity` `Relevance` `Novelty` `Actionability`
+Validity Relevance Novelty Actionability
 
 <a href="https://github.com/mprantikk/ai-insight-quality-evaluation">
 <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" />
@@ -220,13 +220,13 @@ A conceptual framework measuring:
 
 <td width="50%" valign="top">
 
-### ð SQL Revenue Analytics
+📊 SQL Revenue Analytics
 
-**Business Intelligence Engineering**
+Business Intelligence Engineering
 
 PostgreSQL analytics environment covering:
 
-`Revenue Trends` `Segmentation` `BI` `Data Quality`
+Revenue Trends Segmentation BI Data Quality
 
 <a href="https://github.com/mprantikk/sql-revenue-analytics">
 <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" />
@@ -236,13 +236,13 @@ PostgreSQL analytics environment covering:
 
 <td width="50%" valign="top">
 
-### â¡ Automated Operations
+⚡ Automated Operations
 
-**Workflow â API â Decision**
+Workflow → API → Decision
 
 Designing systems that connect operational data with automated validation, mapping, reporting, and decision workflows.
 
-`Retool` `APIs` `SQL` `Automation`
+Retool APIs SQL Automation
 
 </td>
 
@@ -251,17 +251,17 @@ Designing systems that connect operational data with automated validation, mappi
 
 </div>
 
----
+────────
 
-## `06` â RESEARCH
+06 — RESEARCH
 
 <div align="center">
 
-# Beyond the Dashboard
+Beyond the Dashboard
 
-### **Insight Quality Evaluation (IQE) Framework**
+Insight Quality Evaluation (IQE) Framework
 
-*Evaluating the quality of AI-augmented business intelligence.*
+Evaluating the quality of AI-augmented business intelligence.
 
 </div>
 
@@ -274,31 +274,31 @@ But the harder question is:
 The IQE framework evaluates AI-generated insights across four dimensions:
 
 ```text
-        ââââââââââââââââââââââââ
-        â  STATISTICAL VALIDITYâ
-        ââââââââââââ¬ââââââââââââ
-                   â
-                   â¼
-ââââââââââââââââ       ââââââââââââââââ
-â  RELEVANCE   â ââââââºâ   NOVELTY    â
-ââââââââââââââââ       ââââââââââââââââ
-                   â
-                   â¼
-        ââââââââââââââââââââââââ
-        â    ACTIONABILITY     â
-        ââââââââââââââââââââââââ
+        ┌──────────────────────┐
+        │  STATISTICAL VALIDITY│
+        └──────────┬───────────┘
+                   │
+                   ▼
+┌──────────────┐       ┌──────────────┐
+│  RELEVANCE   │ ◄────►│   NOVELTY    │
+└──────────────┘       └──────────────┘
+                   │
+                   ▼
+        ┌──────────────────────┐
+        │    ACTIONABILITY     │
+        └──────────────────────┘
 ```
 
-| Dimension | Question |
-|-----------|----------|
-| ð¯ Statistical Validity | Is the pattern statistically credible? |
-| ð§­ Contextual Relevance | Does it matter to the current business decision? |
-| â¨ Novelty | Does it provide information we did not already know? |
-| â¡ Actionability | Can the organization actually act on it? |
+|Dimension             |Question                                            |
+|----------------------|----------------------------------------------------|
+|🎯 Statistical Validity|Is the pattern statistically credible?              |
+|🧭 Contextual Relevance|Does it matter to the current business decision?    |
+|✨ Novelty             |Does it provide information we did not already know?|
+|⚡ Actionability       |Can the organization actually act on it?            |
 
----
+────────
 
-## `07` â GITHUB ACTIVITY
+07 — GITHUB ACTIVITY
 
 <div align="center">
 
@@ -321,9 +321,9 @@ width="96%"
 
 </div>
 
----
+────────
 
-## `08` â ACHIEVEMENTS
+08 — ACHIEVEMENTS
 
 <div align="center">
 
@@ -339,9 +339,9 @@ width="96%"
 
 </div>
 
----
+────────
 
-## `09` â CONTRIBUTION FLOW
+09 — CONTRIBUTION FLOW
 
 <div align="center">
 
@@ -353,17 +353,17 @@ alt="Animated GitHub contribution snake"
 
 <br>
 
-<sub>â¡ Automatically generated through GitHub Actions</sub>
+<sub>⚡ Automatically generated through GitHub Actions</sub>
 
 </div>
 
----
+────────
 
-## `10` â LETâS CONNECT
+10 — LET’S CONNECT
 
 <div align="center">
 
-### **Have a data problem worth solving?**
+Have a data problem worth solving?
 
 <br>
 
@@ -386,6 +386,6 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,40:2563EB,
 width="100%"
 />
 
-<sub>**MD MASUD PARVEJ** Â· Data Analytics Â· Growth Operations Â· Automation</sub>
+<sub>MD MASUD PARVEJ · Data Analytics · Growth Operations · Automation</sub>
 
 </div>
