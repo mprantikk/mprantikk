@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0F172A,50:1E3A8A,75:2563EB,100:0F172A&height=300&section=header&text=MD%20MASUD%20PARVEJ&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=30&desc=Lead,%20Growth%20Operations%20@%20Commure%20Health&descAlignY=52&descAlign=50&descSize=20" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0F172A,50:1E3A8A,75:2563EB,100:0F172A&height=290&section=header&text=MD%20MASUD%20PARVEJ&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Lead,%20Growth%20Operations%20@%20Commure%20Health&descAlignY=52&descAlign=50&descSize=20" width="100%" alt="Header Banner" />
 
-<a href="https://mprantikk.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&width=760&lines=Architecting+Business+Growth+Through+Data+Analytics;Revenue+Benchmarking+%7C+Automated+QA+%7C+Predictive+Intel;Star+Achiever+%26+Commando+Award+Winner;7%2B+Years+%7C+HealthTech+%C2%B7+Logistics+%C2%B7+E-Commerce+%C2%B7+FMCG" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&width=780&lines=Architecting+Business+Growth+Through+Data+Analytics;Revenue+Benchmarking+%7C+Automated+QA+%7C+Predictive+Intel;Star+Achiever+%26+Commando+Award+Winner;7%2B+Years+%7C+HealthTech+%C2%B7+Logistics+%C2%B7+E-Commerce+%C2%B7+FMCG" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/◆-ANALYTICS_ENGINEER-000000?style=flat-square&labelColor=0F172A&color=2563EB" />
-<img src="https://img.shields.io/badge/◆-RCM_SPECIALIST-000000?style=flat-square&labelColor=0F172A&color=2563EB" />
-<img src="https://img.shields.io/badge/◆-BI_ARCHITECT-000000?style=flat-square&labelColor=0F172A&color=2563EB" />
-<img src="https://img.shields.io/badge/◆-RESEARCHER-000000?style=flat-square&labelColor=0F172A&color=2563EB" />
-
-<br><br>
+<table>
+<tr>
+<td align="center"><strong>7+</strong><br><sub>Years Experience</sub></td>
+<td align="center"><strong>15%+</strong><br><sub>HRIS Accuracy Boost</sub></td>
+<td align="center"><strong>2</strong><br><sub>Company Awards</sub></td>
+<td align="center"><strong>PL-300</strong><br><sub>& GCP Certified</sub></td>
+<td align="center"><strong>3</strong><br><sub>OSS Repositories</sub></td>
+</tr>
+</table>
 
 <a href="https://mprantikk.github.io/"><img src="https://img.shields.io/badge/⚡_PORTFOLIO-mprantikk.github.io-0F172A?style=for-the-badge&logo=googlechrome&logoColor=60A5FA&labelColor=000000" /></a>
 <a href="https://linkedin.com/in/mprantikk"><img src="https://img.shields.io/badge/LINKEDIN-mprantikk-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=000000" /></a>
@@ -23,8 +24,6 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=mprantikk&label=PROFILE+VIEWS&color=1E3A8A&style=for-the-badge&labelColor=000000" alt="profile views" />
-<img src="https://img.shields.io/badge/AWARDS-Star_Achiever_%26_Commando-1E3A8A?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/CERTIFIED-PL--300_%7C_GCP_%7C_ICP--A-1E3A8A?style=for-the-badge&labelColor=000000" />
 
 </div>
 
@@ -58,13 +57,17 @@ based_in:    Dhaka, Bangladesh
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=postgres,py,gcp,docker&theme=dark" />
+
 <br><br>
+
 <img src="https://img.shields.io/badge/Snowflake-000000?style=for-the-badge&logo=snowflake&logoColor=60A5FA" />
 <img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=60A5FA" />
 <img src="https://img.shields.io/badge/Power_BI_(PL--300)-000000?style=for-the-badge&logo=powerbi&logoColor=60A5FA" />
 <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=60A5FA" />
 <img src="https://img.shields.io/badge/Metabase-000000?style=for-the-badge&logo=metabase&logoColor=60A5FA" />
+
 <br><br>
+
 <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=microsoft&logoColor=60A5FA" />
 <img src="https://img.shields.io/badge/Excel_VBA-000000?style=for-the-badge&logo=microsoftexcel&logoColor=60A5FA" />
 <img src="https://img.shields.io/badge/Retool-000000?style=for-the-badge&logo=retool&logoColor=60A5FA" />
@@ -74,6 +77,50 @@ based_in:    Dhaka, Bangladesh
 <img src="https://img.shields.io/badge/Apps_Script-000000?style=for-the-badge&logo=googleappsscript&logoColor=60A5FA" />
 
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0F172A,100:1E293B&height=3&width=100%" width="100%" />
+
+## 💼 Experience Timeline
+
+<table>
+<tr><td width="18%"><strong>2025 – Present</strong><br><sub>Dhaka, BD</sub></td>
+<td>
+
+**Lead, Growth Operations** → *Commure* — promoted Apr 2026
+Bridging business strategy, data analytics, and operational technology. Own revenue benchmarking, QA, and automated insights for executive growth decisions. *Previously Data Operations Manager, leading RCM & Financial Data Analytics.*
+
+</td></tr>
+<tr><td><strong>2024 – 2025</strong></td>
+<td>
+
+**Senior Data Analyst** → *Porter*
+Built stakeholder reporting suites, defined BAU requirements, presented executive trend and predictive analyses.
+
+</td></tr>
+<tr><td><strong>2022 – 2024</strong></td>
+<td>
+
+**Automation & Analytics Expert** → *ShopUp*
+🏆 Star Achiever Award (Q1 & Q2 2023). Drove a 15%+ HRIS accuracy boost, led HR automation and appraisal system design.
+
+</td></tr>
+<tr><td><strong>2020 – 2022</strong></td>
+<td>
+
+**Business Intelligence Executive** → *Grameen Danone Foods Limited*
+🏆 Commando Award — 20% productivity gain via BI solutions; led a custom Sales App improving sales data management by 40%.
+
+</td></tr>
+<tr><td><strong>2019 – 2020</strong></td>
+<td>
+
+**Business Development Specialist** → *Mind Mapper Bangladesh*
+Led the transition of training programs from offline to online, establishing digital best practices.
+
+</td></tr>
+</table>
 
 <br>
 
@@ -142,20 +189,15 @@ Framework for evaluating precision, relevance, and actionability of automated AI
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0F172A,100:1E293B&height=3&width=100%" width="100%" />
 
-## 📈 GitHub Analytics
+## 📈 GitHub Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mprantikk&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=2563EB&text_color=94A3B8" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mprantikk&theme=midnight-purple&hide_border=true&background=00000000&stroke=1E3A8A&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" height="165"/>
+<!--START_SECTION:metrics-->
+<img src="https://raw.githubusercontent.com/mprantikk/mprantikk/main/github-metrics.svg" width="100%" alt="GitHub metrics" />
+<!--END_SECTION:metrics-->
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mprantikk&theme=react-dark&bg_color=00000000&color=60A5FA&line=2563EB&point=FFFFFF&hide_border=true&area=true" width="97%" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mprantikk&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" width="97%" />
+<sub>Self-generated nightly via GitHub Actions — see setup note below</sub>
 
 </div>
 
@@ -169,7 +211,7 @@ Framework for evaluating precision, relevance, and actionability of automated AI
 
 <img src="https://raw.githubusercontent.com/mprantikk/mprantikk/output/github-contribution-grid-snake-dark.svg" width="97%" alt="snake contribution graph" />
 
-<sub>Animated snake "eating" the contribution graph — see setup instructions below</sub>
+<sub>Same one-time Action setup as above generates this</sub>
 
 </div>
 
