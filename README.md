@@ -1,22 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A8A,70:2563EB,100:60A5FA&height=280&section=header&text=MD%20MASUD%20PARVEJ&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Lead,%20Growth%20Operations%20@%20Commure%20Health&descAlignY=52&descAlign=50&descSize=19" width="100%" alt="Header Banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Architecting+Growth+Through+Data+%26+Automation;Analytics+Engineering+%7C+BI+Infrastructure;Turning+Operational+Data+Into+Revenue+Signal;7%2B+Years+%7C+HealthTech+%C2%B7+Logistics+%C2%B7+E-Commerce" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=260&section=header&text=MD%20MASUD%20PARVEJ&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Lead,%20Growth%20Operations%20@%20Commure%20Health&descAlignY=55&descAlign=50&descSize=19" width="100%" alt="Header Banner" />
 
 <br>
+
+<a href="https://mprantikk.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Architecting+Growth+Through+Data+%26+Automation;Analytics+Engineering+%7C+BI+Infrastructure;Turning+Operational+Data+Into+Revenue+Signal;7%2B+Years+%7C+HealthTech+%C2%B7+Logistics+%C2%B7+E-Commerce" alt="Typing SVG" />
+</a>
+
+<br><br>
 
 <a href="https://mprantikk.github.io/"><img src="https://img.shields.io/badge/⚡_Portfolio-mprantikk.github.io-0F172A?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" /></a>
 <a href="https://www.linkedin.com/in/mprantikk"><img src="https://img.shields.io/badge/LinkedIn-mprantikk-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA" /></a>
 <a href="mailto:mprantikk@gmail.com"><img src="https://img.shields.io/badge/Email-mprantikk%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA" /></a>
-<a href="https://github.com/mprantikk"><img src="https://img.shields.io/badge/GitHub-mprantikk-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA" /></a>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=mprantikk&label=Profile%20Views&color=1E3A8A&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/badge/dynamic/json?color=1E3A8A&style=for-the-badge&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmprantikk" alt="followers" />
 
 </div>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=2&width=100%" width="100%" />
 
@@ -132,11 +134,7 @@ Python + PostgreSQL pipeline for healthcare Revenue Cycle Management KPIs and de
 <img src="https://github-readme-stats.vercel.app/api?username=mprantikk&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=2563EB&text_color=94A3B8" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mprantikk&theme=midnight-purple&hide_border=true&background=0F172A&stroke=1E3A8A&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" height="165"/>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mprantikk&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" width="90%" />
-
-<br><br>
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mprantikk&theme=react-dark&bg_color=0F172A&color=60A5FA&line=2563EB&point=FFFFFF&hide_border=true" width="97%" />
 
@@ -144,21 +142,7 @@ Python + PostgreSQL pipeline for healthcare Revenue Cycle Management KPIs and de
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=2&width=100%" width="100%" />
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mprantikk/mprantikk/output/github-contribution-grid-snake-dark.svg" width="97%" alt="snake animation" />
-
-<sub>Generated via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — add the workflow to your profile repo to keep this live.</sub>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%" />
 
 <div align="center">
 <sub><strong>Dhaka, Bangladesh</strong> · <a href="mailto:mprantikk@gmail.com">mprantikk@gmail.com</a> · <a href="https://mprantikk.github.io/">Portfolio</a></sub>
