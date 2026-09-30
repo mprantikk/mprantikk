@@ -25,7 +25,7 @@
 ## 🧭 About
 
 ```yaml
-role:        Lead, Growth Operations @ Commure Health
+role:        Lead, Growth Operations @ Commure
 focus:       Revenue Cycle Management (RCM) · Data Analytics · Automation
 experience:  7+ years — HealthTech, Logistics, E-Commerce, FMCG
 education:   M.Sc. Data Science & Analytics — East West University (in progress)
