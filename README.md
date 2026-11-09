@@ -161,6 +161,17 @@ Framework for judging the precision, relevance, and actionability of AI and LLM 
 
 </td>
 </tr>
+<tr>
+<td colspan="3" align="center">
+
+### 🎯 Perfexio: Performance Management SaaS
+Multi-tenant platform for OKR goals, manager reviews, culture scoring, and leadership dashboards, built with JavaScript, Firebase, and Chart.js.
+
+<a href="https://github.com/mprantikk/perfexio-saas"><img src="https://img.shields.io/badge/View_Repo-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA" /></a>
+<a href="https://staging-perfexio-demo.web.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&labelColor=0F172A" /></a>
+
+</td>
+</tr>
 </table>
 </div>
 
