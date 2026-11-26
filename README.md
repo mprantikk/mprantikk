@@ -47,8 +47,10 @@ Every project below runs, has tests, and is checked by CI on each push. All data
 
 | Project | What it is | Built with |
 |---|---|---|
+| [**Health Financing Benchmark**](https://github.com/mprantikk/south-asia-health-financing) | Real World Bank data: Bangladesh vs South Asia on who pays for healthcare. Self-refreshing monthly pipeline with a quality gate; Bangladesh has the region's highest out-of-pocket share (79%). | Python, World Bank API, GitHub Actions |
 | [**Revenue dbt Warehouse**](https://github.com/mprantikk/revenue-dbt-warehouse) | Layered dbt warehouse (staging → core → finance marts) for healthcare claims, guarded by 52 data tests including a fact-to-mart reconciliation. | dbt, DuckDB, SQL |
 | [**Airflow ELT Pipeline**](https://github.com/mprantikk/airflow-elt-pipeline) | Daily, idempotent ELT DAG that lands, cleans and models a claims drop, and fails the run if any data-quality rule breaks. | Airflow, PostgreSQL, Docker |
+| [**HR People Analytics**](https://github.com/mprantikk/hr-people-analytics) | HRIS data-quality scoring and safe fixes, attrition and early-attrition analysis, and appraisal calibration linked to team attrition. | Python, pandas |
 | [**Claims Data QA Automation**](https://github.com/mprantikk/claims-data-qa-automation) | Cleans messy EHR extracts, runs 12 declarative integrity checks, quarantines bad rows and produces an HTML failure panel. | Python, pandas |
 | [**RCM Revenue Benchmarking**](https://github.com/mprantikk/rcm-revenue-benchmarking) | Scores the five core RCM KPIs (days in AR, denial rate, clean claim rate, net collection, charge lag) by payer against industry targets. | Python, MySQL |
 | [**SQL Revenue Analytics**](https://github.com/mprantikk/sql-revenue-analytics) | RFM segmentation, cohort retention and CLV in SQL, with a PL/pgSQL data-quality suite. | PostgreSQL |
@@ -57,6 +59,7 @@ Every project below runs, has tests, and is checked by CI on each push. All data
 
 | Project | What it is | Built with |
 |---|---|---|
+| [**FMCG Sales & Distribution (Power BI)**](https://github.com/mprantikk/fmcg-sales-powerbi) | Star-schema sales model (3 facts, 6 dimensions) with 30+ DAX measures for targets, strike rate, drop size and numeric distribution, plus sales-app data-quality rules. | Power BI, DAX, Python |
 | [**Growth Ops Dashboard**](https://github.com/mprantikk/growth-ops-dashboard) ([live](https://mprantikk.github.io/growth-ops-dashboard/)) | ARR, net revenue retention, churn, time to launch and cohort retention for a B2B healthtech platform. | Python, Chart.js |
 | [**Perfexio**](https://github.com/mprantikk/perfexio-saas) ([live demo](https://staging-perfexio-demo.web.app/)) | Multi-tenant platform for OKR goals, manager reviews, culture scoring, and leadership dashboards. One weighted score per person: goals 50%, manager review 40%, culture 10%. | JavaScript, Firebase, Chart.js |
 | [**AI Insight Quality Evaluation**](https://github.com/mprantikk/ai-insight-quality-evaluation) | My framework for judging AI-generated insights, plus a Python implementation: FDR-controlled validity, novelty scoring and panel reliability (ICC). | Python, research |
