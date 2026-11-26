@@ -41,12 +41,25 @@ Benchmarking one site at Commure used to take 24 man hours (three working days).
 
 ## Selected work
 
+Every project below runs, has tests, and is checked by CI on each push. All data is synthetic.
+
+**Analytics engineering and data quality**
+
 | Project | What it is | Built with |
 |---|---|---|
+| [**Revenue dbt Warehouse**](https://github.com/mprantikk/revenue-dbt-warehouse) | Layered dbt warehouse (staging → core → finance marts) for healthcare claims, guarded by 52 data tests including a fact-to-mart reconciliation. | dbt, DuckDB, SQL |
+| [**Airflow ELT Pipeline**](https://github.com/mprantikk/airflow-elt-pipeline) | Daily, idempotent ELT DAG that lands, cleans and models a claims drop, and fails the run if any data-quality rule breaks. | Airflow, PostgreSQL, Docker |
+| [**Claims Data QA Automation**](https://github.com/mprantikk/claims-data-qa-automation) | Cleans messy EHR extracts, runs 12 declarative integrity checks, quarantines bad rows and produces an HTML failure panel. | Python, pandas |
+| [**RCM Revenue Benchmarking**](https://github.com/mprantikk/rcm-revenue-benchmarking) | Scores the five core RCM KPIs (days in AR, denial rate, clean claim rate, net collection, charge lag) by payer against industry targets. | Python, MySQL |
+| [**SQL Revenue Analytics**](https://github.com/mprantikk/sql-revenue-analytics) | RFM segmentation, cohort retention and CLV in SQL, with a PL/pgSQL data-quality suite. | PostgreSQL |
+
+**Dashboards, products and research**
+
+| Project | What it is | Built with |
+|---|---|---|
+| [**Growth Ops Dashboard**](https://github.com/mprantikk/growth-ops-dashboard) ([live](https://mprantikk.github.io/growth-ops-dashboard/)) | ARR, net revenue retention, churn, time to launch and cohort retention for a B2B healthtech platform. | Python, Chart.js |
 | [**Perfexio**](https://github.com/mprantikk/perfexio-saas) ([live demo](https://staging-perfexio-demo.web.app/)) | Multi-tenant platform for OKR goals, manager reviews, culture scoring, and leadership dashboards. One weighted score per person: goals 50%, manager review 40%, culture 10%. | JavaScript, Firebase, Chart.js |
-| [**RCM Revenue Benchmarking**](https://github.com/mprantikk/rcm-revenue-benchmarking) | Pipeline that tracks healthcare collection rates, claim denials, and clean claim metrics. | Python, PostgreSQL |
-| [**SQL Revenue Analytics**](https://github.com/mprantikk/sql-revenue-analytics) | PostgreSQL schema and queries for revenue trends, customer segmentation, and data-integrity checks. | PostgreSQL, Docker |
-| [**AI Insight Quality Evaluation**](https://github.com/mprantikk/ai-insight-quality-evaluation) | A way to judge whether AI-generated insights are accurate, relevant, and worth acting on. | Evaluation framework |
+| [**AI Insight Quality Evaluation**](https://github.com/mprantikk/ai-insight-quality-evaluation) | My framework for judging AI-generated insights, plus a Python implementation: FDR-controlled validity, novelty scoring and panel reliability (ICC). | Python, research |
 
 ## Research
 
