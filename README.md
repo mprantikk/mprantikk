@@ -14,7 +14,7 @@
 
 ## About
 
-I lead data operations at Commure, a healthcare technology company focused on revenue cycle management. When I joined, revenue benchmarking did not exist as a process. I built it from scratch with a small team: the workflows, the QA, the system setup, and the data operations around it. Today I work across three pods: Revenue Benchmarking, Rev Ops, and Launch QBR.
+I lead data operations at Commure, a healthcare technology company focused on revenue cycle management. When I joined, revenue benchmarking did not exist as a process. I built it from scratch with a small team: the workflows, the QA, the system setup, and the data operations around it. We have since benchmarked revenue for 400+ sites. Today I work across three pods: Revenue Benchmarking, Rev Ops, and Launch QBR.
 
 Before Commure I worked in logistics (Porter), e-commerce and fintech (ShopUp), and FMCG (Grameen Danone Foods). That is 6+ years of turning messy operational data into reports people actually use.
 
@@ -32,6 +32,8 @@ I also build my own tools, like Perfexio, and I write about how to judge AI-gene
 </p>
 
 Benchmarking one site at Commure used to take 24 man hours (three working days). It now takes 5. QA used to be fully manual. A Retool integrity-check failure panel and a Firebase-hosted review panel now handle about 98% of it without errors.
+
+At ShopUp I automated HR reporting end to end: about 30 automated reports that saved 15 hours a week and cut manual effort by 55%, for an HRIS serving 900+ employees. At Porter, key-metric reports went from a couple of hours to under 3 minutes, and sales forecast accuracy rose 30%. At Grameen Danone I was product manager for a Sales App used by 300+ sales reps and 100+ distributors.
 
 ## What I work with
 
